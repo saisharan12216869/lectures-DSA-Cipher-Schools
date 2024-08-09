@@ -1,0 +1,3 @@
+Constant in C++ = A constant is a data item whose value cannot change during the program’s execution. Thus, as its name implies – the value is constant.
+
+Variable = A variable is a data item whose value can change during the program’s execution. Thus, as its name implies – the value can vary.
